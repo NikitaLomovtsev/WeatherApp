@@ -7,7 +7,7 @@ The application shows the current weather and the weather for the next 24 hours/
 
 # Keyword
 
-* CleanSwift
+* CleanSwift architecture
 * Without storyboard/xib
 * JSON & Codable
 * Openweathermap
