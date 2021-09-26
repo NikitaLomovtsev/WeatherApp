@@ -8,4 +8,5 @@ Weather Forecast App (OpenWeather API &amp; CLLocationManager). Clean Swift VIP 
 * CleanSwift
 * JSON & Codable
 * openweathermap
-* cllocationmanager
+* CoreLocation
+* no storyboard/xib
