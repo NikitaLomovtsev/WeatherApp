@@ -5,6 +5,7 @@ Weather Forecast App (OpenWeather API &amp; CLLocationManager). Clean Swift VIP 
 
 # Keyword
 
-* Clean
 * CleanSwift
 * JSON & Codable
+* openweathermap
+* cllocation
