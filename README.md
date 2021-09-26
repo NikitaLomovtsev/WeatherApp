@@ -3,6 +3,6 @@ Weather Forecast App (OpenWeather API &amp; CLLocationManager). Clean Swift VIP 
 
 <img src="https://raw.githubusercontent.com/NikitaLomovtsev/WeatherApp/main/weatherapppromo.png?raw=true" />
 # Keyword
-*Clean
-*CleanSwift
-*JSON & Codable
+* Clean
+* CleanSwift
+* JSON & Codable
