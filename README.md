@@ -1,5 +1,5 @@
 # WeatherApp
-Weather Forecast App (OpenWeather API &amp; CLLocationManager). Clean Swift VIP architecture.
+Weather Forecast App (OpenWeather API &amp; CLLocationManager). Clean Swift VIP architecture. Without storyboard or xib.
 
 <img src="https://raw.githubusercontent.com/NikitaLomovtsev/WeatherApp/main/weatherapppromo.png?raw=true" />
 
